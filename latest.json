@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2024-03-11T07:50:34.294Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeGUzYVc3WWtkTHN2S0d3aGxCdGViUUs2a0lrL3VtQjVwbkFkaWVXRm9rTUlEcm1LUjdpRi9ac2YybFpIaFJ3OHQzNzU3MFIvWktBdmovNVB4K3JLTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMTQzNDMxCWZpbGU6d2l0aF8wLjEuMV94NjQtc2V0dXAubnNpcy56aXAKM2FoMjVzWE5iK1ZXTUpDZ3lTV1hoNkk2cFpiWUtkaE5SaGlUL0FkRE9ZeDF1UnpHcFdBRm15RG41WkJUQTc0Q2pFRUNOUTh4TU5rVEllbWVJbXEzQXc9PQo=",
+      "url": "https://github.com/m1m1sha/with-app/releases/download/v0.1.1/with_0.1.1_x64-setup.nsis.zip"
+    }
+  }
+}
