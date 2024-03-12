@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeGZaU2FrQ1pwV0pPSDJ4UUVmRFUvSlBDeDlZWVNoVUpsakVSek43UDdYc0FHdlJmb25rSnlMTXlZajlxK1dSWU84SkkvUmFKOU14bURpMWVsQlRTeHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMjE1NDIyCWZpbGU6d2l0aF8wLjEuMl94NjQtc2V0dXAubnNpcy56aXAKY2Z4RXpxSlVERzNVSm9RRHVSeFhQRlNQUEpJYUhFTGxCb1RmSnVJWFppYjBSZ2Q5TnBXN2ljUFBvb1RiempsenFGamN3L1NkRGJqdEt2cGNPb0h6RFE9PQo=",
-      "url": "https://github.com/m1m1sha/with-app/releases/download/v0.1.2/with_0.1.2_x64-setup.nsis.zip"
+      "url": "https://hub.gitmirror.com/https://github.com/m1m1sha/with-app/releases/download/v0.1.2/with_0.1.2_x64-setup.nsis.zip"
     }
   }
 }
