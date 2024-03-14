@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "自动更新换用手动下载",
-  "pub_date": "2024-03-13T08:00:30.757Z",
+  "version": "0.1.5",
+  "notes": "更换底层服务, 优化组网设备显示",
+  "pub_date": "2024-03-14T06:59:31.804Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeFRwS05iUG05bXlsaTBoalYvalBhQm1oSUxyRVBpRHpRaVdYUDR0UWNKbGVXMlNaUHFEMUc2VkhjV01YeE1sV1Zrd0xWa0NudjVWSlVBM1A4b1NTa1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE2ODI4CWZpbGU6d2l0aF8wLjEuNF94NjQtc2V0dXAubnNpcy56aXAKb1VjZ1JiNnlKYStZQ1hML1Q4dDYzaEZ4R2JrVHBUdjdYZzl1U2cvUXZNL3laWThqSjlqRFJkbzk5bHNOMlBQYTFTdVZDbUZtdUU5VVdUZ1owNkJsRGc9PQo=",
-      "url": "https://hub.gitmirror.com/https://github.com/m1m1sha/with-app/releases/download/v0.1.4/with_0.1.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeGV3S2RVcGpVSGxaWUhMYmRaZ1ZUL3VNUFN0Mk5wSHlnZVR1ZVJMbU96ckZ3aTRmb09uYXE3TU5oaHVoTVhZYWtKcVVNSlRLTlp3ZFVzcHZPR05jMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzk5NTY4CWZpbGU6d2l0aF8wLjEuNV94NjQtc2V0dXAubnNpcy56aXAKOUtabTNUbzZlRGpnbm56U1JOV1ByNHRIeWpPNHZoMDZpMHU4czdXRU1VelJ2TXRqQy82aENPcHJ6VDl1ME81amlYaThFNDhGYiszTGR6RDgxUllqRFE9PQo=",
+      "url": "https://hub.gitmirror.com/https://github.com/m1m1sha/with-app/releases/download/v0.1.5/with_0.1.5_x64-setup.nsis.zip"
     }
   }
 }
