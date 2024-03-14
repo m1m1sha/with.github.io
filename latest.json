@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "优化自动更新",
-  "pub_date": "2024-03-14T08:32:25.290Z",
+  "version": "0.1.8",
+  "notes": "修复样式错误",
+  "pub_date": "2024-03-14T08:50:28.859Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeFU5c1B6bnErYTlUNjlEV0pCNVBCQ2N5dGlIOHZuUG9ER1BqbTd1cnk1VXRralRURTFBbjk1ejhZS0g5VVlKSEFvRiswRjFvbTBxVGtLQ3p5MklmWlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwNDA1MTQzCWZpbGU6d2l0aF8wLjEuN194NjQtc2V0dXAubnNpcy56aXAKbmFaeE5SRWhoNXVoT3JBWkJFM1VONmlzV3VLUWRJcXJLMkppa0U0aFdaY3RLUG1GRndNR2tHQUhxV2NrNFZZZGl0UnlURForWWt3aVRhSkxwOUJ2QkE9PQo=",
-      "url": "https://hub.gitmirror.com/https://github.com/m1m1sha/with-app/releases/download/v0.1.7/with_0.1.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHFGT0lhdlVPeGZTajEwR3NoSjB0enZVbSt3RUVhQjVCRy84Q3lKVjhieDl3cGxadVAxWWxTVFNvL21xV2lWandmNUp5b29VenlvNUZ1U0tYMjJzRXhIc1pwdmgrT2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwNDA2MjI2CWZpbGU6d2l0aF8wLjEuOF94NjQtc2V0dXAubnNpcy56aXAKTXJSOHdKTk9ld09DNDg2aG8xOVhnOGc5ak10RmxDN0pvK0NBOHg0RktQM2F5TlArTnR6c204QmZKODBmRUxCSldXcW9WV0xRbCs1SUdJRGtVdHBEQnc9PQo=",
+      "url": "https://hub.gitmirror.com/https://github.com/m1m1sha/with-app/releases/download/v0.1.8/with_0.1.8_x64-setup.nsis.zip"
     }
   }
 }
